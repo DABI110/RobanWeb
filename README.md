@@ -1,10 +1,10 @@
 # RobanWeb
-机器人操作平台
+机器人操作平台 
 ## 功能：
 
 1. 数据通信
    
-    (1) 基于rosBridge和QWebSocket进行ros和windows端qt软件的数据桥接
+    (1) 基于rosBridge和QWebSocket进行ros和windows端QT6.5.10软件的数据桥接
 
     (2) 机器人IP和端口信息数据库存储
 
