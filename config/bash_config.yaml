@@ -1,0 +1,4 @@
+start_slam_bash: "/home/lemon/exec_scripts/slam.sh"
+start_slam_location_bash: "/home/lemon/exec_scripts/slam_tt.sh"
+start_control_bash: "/home/lemon/exec_scripts/move.sh"
+voiceControlScript: "/home/lemon/exec_scripts/largeModel.sh"
